@@ -101,7 +101,7 @@ body {
     display: flex;
     gap: 4vmin;
     position: relative;
-    left: 50%;
+    left: 10%;
     top: 50%;
     transform: translate(-100%, -70%);
     user-select: none;
